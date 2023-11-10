@@ -1,0 +1,5 @@
+k describe po new-replica-set-xmbdl |grep -iA 100 events
+
+ k events --for=rs/new-replica-set
+
+k get po --no-headers | wc -l
