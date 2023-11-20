@@ -1,0 +1,49 @@
+Date	Topics 
+05 Nov 2023 	Commands and Arguments in Docker (07:25)
+	
+	Commands and Arguments in Kubernetes (02:40)A quick note on editing Pods and DeploymentsPractice Test – Kubernetes – CKAD – Commands and ArgumentsSolution: Commands and Arguments (Optional) (19:31)Environment Variables (01:08)ConfigMaps (05:12)Practice Test – Kubernetes – CKAD – ConfigMapsSolution: ConfigMaps (Optional) (08:43)Secrets (08:20)A quick note about Secrets!Practice Test – Kubernetes – CKAD – SecretsSolution: Secrets (Optional) (09:53)Demo: Encrypting Secret Data at Rest (18:47)Pre-requisite – Security in Docker (05:37)Security Contexts (01:57)Practice Test – Kubernetes – CKAD – Security ContextsSolutions-Security Contexts (06:12)Resource Requirements (14:51)Practice Test – Kubernetes – CKAD – Resource LimitsSolutions-Resource Requirements (03:25)Service Account (14:34)Practice Test – Kubernetes – CKAD – Service AccountSolutions-Service Account (08:04)Stay Updated!Taints and Tolerations (09:55)Practice Test – Taints and TolerationSolution – Taints and Tolerations (Optional) (10:09)Node Selectors Logging (03:20)Node Affinity (07:08)
+06 Nov 2023 	Multi-Container Pods (04:34)
+	Practice Tests – Kubernetes CKAD – Multi Container PodsSolution – Multi-Container Pods (Optional) (15:09)Init ContainersPRACTICE TEST – INIT CONTAINERSSolution – Init Containers (Optional) (07:21)
+07 Jul 2023 	0% Complete0/11 Steps
+	Readiness Probes (08:11)Liveness Probes (03:19)Practice Test – Kubernetes – CKAD – Readiness ProbesSolution-Readiness and Liveness Probes (09:30)Logging (02:35)Practice Test – Kubernetes – CKAD – LoggingSolution – Logging (optional) (02:48)Monitoring (04:14)Practice Test – Kubernetes – CKAD – MonitoringSolution – Monitoring (optional) (04:21)Feedback
+08 Nov 2023 	Labels, Selectors & Annotations (05:58)
+	Practice Test – Kubernetes – CKAD – Labels and SelectorsSolution – Labels and Selectors (optional) (05:33)Rolling Updates & Rollbacks (06:47)Updating a DeploymentPractice Test – Kubernetes – CKAD – Rolling Updates and RollbacksSolution: Rolling Updates and Rollbacks (optional) (09:05)Jobs (08:07)Cron Jobs (01:45)Practice Test – Kubernetes – CKAD – Jobs and CronJobsSolution – Jobs and Cronjobs (optional) (09:07)Feedback
+09 Nov 2023 	Services (13:47)
+	Services – Cluster IP (04:10)Practice Test – CKAD – Kubernetes ServicesSolution – Services (optional) (09:27)Network Policies (07:56)Developing network policies (11:35)Practice Test – Kubernetes – CKAD – Network PoliciesSolution – Network Policies (optional) (14:11)Ingress Networking (22:38)Article: IngressPractice Test – CKAD – Ingress Networking – 1Solution: Ingress Networking – 1 (15:45)Practice Test – CKAD – Ingress Networking – 2Solution: Ingress Networking – 2 (14:34)FAQ – What is the rewrite-target option?Feedback
+10 Nov 2023 	Introduction to Docker Storage (00:54)
+	Storage in Docker (12:32)Volume Driver Plugins in Docker (01:53)Volumes in Kubernetes (04:36)Persistent Volumes (03:07)Persistent Volume Claims (04:05)Using PVCs in PodsPractice Test – Kubernetes – CKAD – Persistent VolumesSolution – Persistent Volumes and Persistent Volume Claims (optional) (18:11)Note on optional topicsStorage Classes (03:59)Practice Test – Storage ClassWhy Stateful Sets? (09:28)Stateful Sets Introduction (02:44)Headless Services (07:29)Storage in StatefulSets (04:30)Feedback
+11 Nov 2023 	Updates for Sep 2021 Changes
+	Define, build and modify container images (07:30)Practice test Docker ImagesAuthentication, Authorization and Admission Control (03:18)Authentication (05:34)Article on Setting up Basic AuthenticationImportant UpdatesKubeConfig (08:32)Practice Test KubeConfigSolution KubeConfig (08:08)API Groups (05:52)Authorization (07:30)Role Based Access Controls (04:28)Practice Test Role Based Access ControlsSolution Role Based Access Controls (13:36)Cluster Roles (04:33)Practice Test Cluster RolesSolution Cluster Roles (11:13)Admission Controllers (08:07)Practice Test – Admission ControllersSolution: Admission Controllers (06:41)Validating and Mutating Admission Controllers (10:26)Practice Test – Validating and Mutating Admission ControllersSolution: Validating and Mutating Admission Controllers (07:39)API Versions (08:47)API Deprecations (13:45)Practice Test – API Versions/DeprecationsSolution: API Versions/Deprecations (07:18)Custom Resource Definition (11:01)Practice Test – Custom Resource Definition
+12 Nov 2023 	Custom Controllers (03:57)
+	Operator Framework (03:00)Deployment Strategy – Blue Green (04:35)Deployment Strategy – Canary (05:21)Practice Test – Deployment strategiesSolution: Deployment strategies (05:49)Helm Introduction (06:23)Install Helm (01:29)Practice Test – Install HelmSolution: Install Helm (02:10)Helm Concepts (06:09)Practice Test – Helm ConceptsSolution: Helm Concepts (04:31)Feedback
+13 Nov 2023 	Lesson Content
+	0% Complete0/1 Steps
+	
+	Kubernetes Challenges
+	
+	Certification Tips1 Topic
+	
+	Lesson Content
+	0% Complete0/1 Steps
+	
+	Time Management (06:10)
+	
+	Lightning Labs5 Topics
+	
+	Lesson Content
+	0% Complete0/5 Steps
+	
+	Lightning Labs IntroductionLightning Lab – 1Solution: Lightning Lab 1 (22:03)Lightning Lab – 2Solution: Lightning Lab 2 (14:39)
+	
+	Mock Exams8 Topics
+	
+	Lesson Content
+	0% Complete0/8 Steps
+	Mock Exam IntroductionMock Exam – 1Mock Exam – 1 – Solution (19:57)Mock Exam – 2Mock Exam – 2 – Solution (17:50)What’s Next? (03:25)All the best!Feedback
+14 Nov 2023 	https://killer.sh/ckad
+	
+15 Nov 2023 	https://killer.sh/ckad
+	
+16 Nov 2023 	Attempt Exam
+	
+17 Nov 2023 	Boom -
